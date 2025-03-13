@@ -137,8 +137,8 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "MoonlightModelLoader": "CustomID Model Loader",
-    "PromptProcessor": "ApplyCustomIDFlux",
+    "MoonlightModelLoader": "Moonlight ModelLoader",
+    "PromptProcessor": "PromptProcessor",
     "ChatTemplateProcessor": "ChatTemplateProcessor",
     "TextGenerator": "TextGenerator",
     "TextDecoder": "TextDecoder"
