@@ -2,6 +2,7 @@
 
 https://github.com/MoonshotAI/Moonlight
 
+![image](workflow.png)
 
 ## Install
 
